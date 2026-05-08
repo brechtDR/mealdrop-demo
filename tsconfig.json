@@ -3,7 +3,13 @@
     "baseUrl": "src",
     "target": "ESNext",
     "lib": ["dom", "dom.iterable", "esnext"],
-    "types": ["vite/client", "vitest/globals", "@testing-library/jest-dom"],
+    "types": [
+      "vite/client",
+      "vitest/globals",
+      "@testing-library/jest-dom",
+      "react",
+      "react-dom"
+    ],
     "allowJs": false,
     "skipLibCheck": true,
     "esModuleInterop": true,
