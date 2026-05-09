@@ -123,7 +123,7 @@ const color = {
   bannerBackground: baseColors.blue.base,
   buttonClear: 'transparent',
   buttonClearHover: baseColors.grey.light5,
-  buttonPrimary: baseColors.grey.dark1,
+  buttonPrimary: baseColors.grey.dark6,
   buttonPrimaryHover: baseColors.grey.dark5, // recheck
   buttonSecondary: baseColors.green.base,
   buttonSecondaryHover: baseColors.green.dark1, // recheck
