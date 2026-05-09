@@ -39,9 +39,6 @@ export const Sidebar: React.FC<React.PropsWithChildren<SidebarProps>> = ({
           <TopBar>
             <Heading level={4}>{title}</Heading>
             <Button
-              aria-label="close sidebar"
-              clear
-              round
               data-testid="sidebar-close-btn"
               onClick={onClose}
               icon="cross"
